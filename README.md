@@ -45,6 +45,24 @@ Please read [install.md](docs/install.md) for details on how to set up this proj
 
 ---
 
+## Notebooks Index
+
+### Analysis Windows
+
+- [Rectangular Window](notebooks/analysis_windows/01-rectangular.ipynb): Analysis of the rectangular window function in DSP.
+- [Triangular Window](notebooks/analysis_windows/02-triangular.ipynb): Analysis of the triangular window function in DSP.
+- [Hann Window](notebooks/analysis_windows/03-hann.ipynb): Analysis of the Hann window function in DSP.
+- [Hamming Window](notebooks/analysis_windows/04-hamming.ipynb): Analysis of the Hamming window function in DSP.
+- [Blackman Window](notebooks/analysis_windows/05-blackman.ipynb): Analysis of the Blackman window function in DSP.
+- [Blackman-Harris Window](notebooks/analysis_windows/06-blackman-harris.ipynb): Analysis of the Blackman-Harris window function in DSP.
+- [Kaiser Window](notebooks/analysis_windows/07-kaiser.ipynb): Analysis of the Kaiser window function in DSP.
+
+## Spectral Analysis
+
+- [Sinc and Rectangular Functions](notebooks/sinc-rect.ipynb): Exploration of the sinc function and its relationship with rectangular pulses in the frequency domain.
+
+---
+
 ## Basic Usage for Data Science Tasks
 
 ### Working in Notebooks
