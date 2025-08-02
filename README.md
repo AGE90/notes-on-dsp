@@ -47,6 +47,11 @@ Please read [install.md](docs/install.md) for details on how to set up this proj
 
 ## Notebooks Index
 
+## Spectral Analysis
+
+- [Sinc and Rectangular Functions](notebooks/spectral_analysis/sinc-pulse.ipynb): Exploration of the sinc function and its relationship with rectangular pulses in the frequency domain.
+- [Zero-phase Zero-padding](notebooks/spectral_analysis/zero-phase-zero-padding.ipynb): Analysis of zero-padding in the frequency domain and its effects on spectral resolution.
+
 ### Analysis Windows
 
 - [Rectangular Window](notebooks/analysis_windows/01-rectangular.ipynb): Analysis of the rectangular window function in DSP.
@@ -57,9 +62,9 @@ Please read [install.md](docs/install.md) for details on how to set up this proj
 - [Blackman-Harris Window](notebooks/analysis_windows/06-blackman-harris.ipynb): Analysis of the Blackman-Harris window function in DSP.
 - [Kaiser Window](notebooks/analysis_windows/07-kaiser.ipynb): Analysis of the Kaiser window function in DSP.
 
-## Spectral Analysis
+## Time-Frequency Analysis
 
-- [Sinc and Rectangular Functions](notebooks/sinc-rect.ipynb): Exploration of the sinc function and its relationship with rectangular pulses in the frequency domain.
+- [Frequency Modulated Signals](notebooks/time-frequency_analysis/frequency-modulated-signals.ipynb): Exploration of frequency modulation and its effects on signal representation in the time-frequency domain.
 
 ---
 
