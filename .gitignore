@@ -173,3 +173,8 @@ site/
 # Notebook exports
 *.html
 *.ipynb_export/
+
+# Audio / Video files
+*.mp3
+*.wav
+*.mp4

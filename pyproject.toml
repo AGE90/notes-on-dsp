@@ -22,26 +22,17 @@ requests = "^2.32.4"
 pydantic = "^2.11.7"
 pyprojroot = "^0.3.0"
 python-dotenv = "^1.1.1"
+pywavelets = "^1.9.0"
+openpyxl = "^3.1.5"
+scipy = "^1.16.1"
+seaborn = "^0.13.2"
+ipykernel = "^6.30.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^25.1.0"
 mypy = "^1.17.1"
 pre-commit = "^4.2.0"
 ruff = "^0.12.7"
-
-
-[tool.poetry.group.notebook.dependencies]
-ipykernel = "^6.30.0"
-
-
-[tool.poetry.group.data-science.dependencies]
-openpyxl = "^3.1.5"
-scipy = "^1.16.1"
-
-
-[tool.poetry.group.viz.dependencies]
-seaborn = "^0.13.2"
-
 
 [tool.poetry.group.test.dependencies]
 pytest = "^8.4.1"

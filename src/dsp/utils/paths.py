@@ -58,6 +58,8 @@ dir_types: List[List[str]] = [
     ["data", "processed"],      # Processed data folder
     ["data", "interim"],        # Interim data folder
     ["data", "external"],       # External data folder (e.g., third-party sources)
+    ["signals"],                # Signals folder
+    ["signals", "audio"],       # Audio signals folder
     ["models"],                 # Folder to store models
     ["notebooks"],              # Jupyter notebooks folder
     ["references"],             # Reference materials
@@ -85,6 +87,8 @@ data_raw_dir = dir_functions['data_raw_dir']
 data_processed_dir = dir_functions['data_processed_dir']
 data_interim_dir = dir_functions['data_interim_dir']
 data_external_dir = dir_functions['data_external_dir']
+signals_dir = dir_functions['signals_dir']
+signals_audio_dir = dir_functions['signals_audio_dir']
 models_dir = dir_functions['models_dir']
 notebooks_dir = dir_functions['notebooks_dir']
 references_dir = dir_functions['references_dir']
